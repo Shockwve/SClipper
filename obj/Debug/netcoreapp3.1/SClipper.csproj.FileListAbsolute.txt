@@ -1,0 +1,15 @@
+D:\Documents\irl\Coding Projects\SClipper\SClipper\bin\Debug\netcoreapp3.1\SClipper.exe
+D:\Documents\irl\Coding Projects\SClipper\SClipper\bin\Debug\netcoreapp3.1\SClipper.deps.json
+D:\Documents\irl\Coding Projects\SClipper\SClipper\bin\Debug\netcoreapp3.1\SClipper.runtimeconfig.json
+D:\Documents\irl\Coding Projects\SClipper\SClipper\bin\Debug\netcoreapp3.1\SClipper.runtimeconfig.dev.json
+D:\Documents\irl\Coding Projects\SClipper\SClipper\bin\Debug\netcoreapp3.1\SClipper.dll
+D:\Documents\irl\Coding Projects\SClipper\SClipper\bin\Debug\netcoreapp3.1\SClipper.pdb
+D:\Documents\irl\Coding Projects\SClipper\SClipper\obj\Debug\netcoreapp3.1\SClipper.Form1.resources
+D:\Documents\irl\Coding Projects\SClipper\SClipper\obj\Debug\netcoreapp3.1\SClipper.csproj.GenerateResource.cache
+D:\Documents\irl\Coding Projects\SClipper\SClipper\obj\Debug\netcoreapp3.1\SClipper.AssemblyInfoInputs.cache
+D:\Documents\irl\Coding Projects\SClipper\SClipper\obj\Debug\netcoreapp3.1\SClipper.AssemblyInfo.cs
+D:\Documents\irl\Coding Projects\SClipper\SClipper\obj\Debug\netcoreapp3.1\SClipper.csproj.CoreCompileInputs.cache
+D:\Documents\irl\Coding Projects\SClipper\SClipper\obj\Debug\netcoreapp3.1\SClipper.dll
+D:\Documents\irl\Coding Projects\SClipper\SClipper\obj\Debug\netcoreapp3.1\SClipper.pdb
+D:\Documents\irl\Coding Projects\SClipper\SClipper\obj\Debug\netcoreapp3.1\SClipper.genruntimeconfig.cache
+D:\Documents\irl\Coding Projects\SClipper\SClipper\obj\Debug\netcoreapp3.1\SClipper.csprojAssemblyReference.cache
